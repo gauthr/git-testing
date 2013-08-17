@@ -1,6 +1,5 @@
 git-testing
 ===========
 
-Test repository for GitHub experimentation.  I am adding some additional material to this README file to see what happens...
+Test repository for GitHub experimentation. 
 
-This is full of nonsense! On the nonsense branch!
