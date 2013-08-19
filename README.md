@@ -1,5 +1,4 @@
 git-testing
 ===========
 
-Test repository for GitHub experimentation. 
-
+A semi-complicated Hello World in Ruby.
